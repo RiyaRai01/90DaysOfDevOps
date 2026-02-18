@@ -1,4 +1,4 @@
-What is your understanding of DevOps and Cloud Engineering?
-Why you are starting learning DevOps & Cloud?
-Where do you want to reach?
-How you will stay consistent every single day?
+# What is your understanding of DevOps and Cloud Engineering?
+# Why you are starting learning DevOps & Cloud?
+# Where do you want to reach?
+# How you will stay consistent every single day?
