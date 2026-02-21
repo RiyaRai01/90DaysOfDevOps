@@ -9,5 +9,6 @@ I want to become devops/cloud/site reliability engineer in 3 months.
   
 # How you will stay consistent every single day?
 I will dedicate 2hrs of weekday and 6hrs in weekend.
-  
 
+# 3-Month DevOps Plan (For Working Professional)
+  
